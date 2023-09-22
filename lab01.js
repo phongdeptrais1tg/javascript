@@ -42,4 +42,37 @@ console.log(pi)
 //e
 
 
+// let hocsinh = {
+//     tuoi : 28,
+//     hoten : "Phong đẹp trai",
+//     diachi : "Landmark 81"
+// }
+// // chèn vào object
+// hocsinh.telephone = 1131151161 
+// //thay thế tuổi
+// hocsinh.tuoi = 23
+
+// console.log(hocsinh)
+
+
+// //Cách 2
+// let hocvien = new Object()
+
+
+//f)
+
+let dienthoai = new Object()
+dienthoai.ten = "iphone 14"
+dienthoai.hangSX = "Apple"
+dienthoai.mausac = "Den"
+dienthoai.gia = "10000usd"
+
+dienthoai.gia = "750usd"
+dienthoai.ten = "14promax"
+
+console.log(dienthoai)
+
+
+
+
 
